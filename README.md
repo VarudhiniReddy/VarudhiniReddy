@@ -7,7 +7,7 @@ MBA graduate from the University of Delaware with a physician background, specia
 
 I focus on solving complex healthcare challenges at the intersection of:
 
-Policy & public health
+Policy & Public health
 Healthcare systems & operations
 Data analytics & decision-making
 Innovation (AI, informatics, digital health)
