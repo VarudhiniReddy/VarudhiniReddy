@@ -3,13 +3,13 @@ Healthcare Strategy | Policy | Consulting | Population Health
 
 About Me
 
-MBA graduate from the University of Delaware with a physician background, specializing in health policy, healthcare management, population health, and data-driven strategy.
+MBA graduate with major in Healthcare Management from the University of Delaware with background in biology and medicine, specializing in health policy, healthcare management, population health, and data-driven strategy.
 
 I focus on solving complex healthcare challenges at the intersection of:
 
-Policy & Public health
-Healthcare systems & operations
-Data analytics & decision-making
+Policy & Public health,
+Healthcare systems & operations,
+Data analytics & decision-making.
 Innovation (AI, informatics, digital health)
 
 Core Skills
