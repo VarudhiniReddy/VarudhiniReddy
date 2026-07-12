@@ -33,3 +33,5 @@ I am a physician-trained clinical research and regulatory affairs professional c
 *   **LinkedIn:** [http://www.linkedin.com/in/varudhinireddy]
 *   **Email:** varudhinireddy.md@gmail.com
 *   **Location:** Washington D.C., Baltimore Area
+
+Thank you Gemini. 
